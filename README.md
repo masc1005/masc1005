@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mascarenhas1005@outlook.com
 - ⚡ Fun fact: I'm a Arrow fan
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masc1005&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masc1005&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masc1005&layout=compact)](https://github.com/masc1005/github-readme-stats)
 
