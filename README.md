@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Leoni Mascarenhas
 
 
-- 🔭 I’m currently working on Urbit-City as Back-end Developer!
+- 🔭 I’m a Back-end Developer!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masc1005&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masc1005&theme=github)
